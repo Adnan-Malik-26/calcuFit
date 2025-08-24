@@ -70,7 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## License
 
-MIT License. Feel free to use and contribute!
+MIT License. Feel free to use and contribute!\
 Give your ideas for this. If you find any bug open a issue.
 
 ---
