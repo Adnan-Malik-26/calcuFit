@@ -17,7 +17,7 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "FitCalc",
+  title: "calcuFit",
   description: "Professional multi-tab fitness calculator for BMI, TDEE, Body Fat, BMR, and Ideal Weight calculations",
   icons: {
     icon: [

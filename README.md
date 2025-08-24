@@ -1,8 +1,6 @@
-# FitCalc – Multi-Tab Fitness & Health Calculator
+# CalcuFit – Multi-Tab Fitness & Health Calculator
 
-![FitCalc Banner](path-to-your-image.png)
-
-**FitCalc** is a web-based fitness calculator built with **Next.js**, **React**, and **Tailwind CSS**. It provides users with a suite of health and fitness calculators including BMI, Body Fat, BMR, Calorie Needs, Ideal Weight, and more. The app is live at [fitcalc.vercel.app](https://fitcalc.vercel.app).
+**CalcuFit** is a web-based fitness calculator built with **Next.js**, **React**, and **Tailwind CSS**. It provides users with a suite of health and fitness calculators including BMI, Body Fat, BMR, Calorie Needs, Ideal Weight, and more. The app is live at [calcufit.vercel.app](https://calcufit.vercel.app).
 
 ---
 
@@ -33,7 +31,7 @@
 
 ```bash
 git clone https://github.com/your-username/fitcalc.git
-cd fitcalc
+cd calcuFit
 ```
 
 2. **Install dependencies**

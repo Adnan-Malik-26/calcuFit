@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand Section */}
           <div className="space-y-3">
-            <h3 className="font-serif font-bold text-lg text-foreground">FitCalc</h3>
+            <h3 className="font-serif font-bold text-lg text-foreground">calcuFit</h3>
             <p className="text-muted-foreground text-sm">
               Professional fitness tools to help you track and achieve your health goals with scientifically-backed
               calculations.

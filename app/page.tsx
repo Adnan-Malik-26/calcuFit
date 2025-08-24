@@ -22,7 +22,7 @@ export default function FitnessCalculatorApp() {
             <div></div>
             <UnitSelector />
           </div>
-          <h1 className="text-4xl font-serif font-bold text-foreground mb-2">FitCalc</h1>
+          <h1 className="text-4xl font-serif font-bold text-foreground mb-2">CalcuFit</h1>
           <p className="text-muted-foreground text-lg">
             Professional tools for tracking your health and fitness metrics
           </p>
